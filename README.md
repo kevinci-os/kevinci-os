@@ -1,7 +1,5 @@
 # Ayemhenre Kelvin
-|Name|Class|Age|
-|---|---|---|
-|Kelvin|2025|30|
+
 
 <!--
 **kevinci-os/kevinci-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
